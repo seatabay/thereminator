@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/light</oscMessage>
+  <numInputs>1</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>light-1</string>
+  </inputNames>
+</OSCInputGroup>
